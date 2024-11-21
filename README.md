@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A passionate Android developer from Ukraine</h3>
 
-## <img width="45" alt="about" src="https://raw.github.com/terrakok/terrakok/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/BoomZoom/BoomZoom/master/about.png"> More about me
 ```kotlin
 val BoomZoom = developer {
     about {
